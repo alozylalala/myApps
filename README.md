@@ -1,2 +1,0 @@
-# myApps
-Repository of applications
